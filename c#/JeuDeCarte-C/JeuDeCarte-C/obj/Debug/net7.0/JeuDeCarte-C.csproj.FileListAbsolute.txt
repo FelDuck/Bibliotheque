@@ -1,0 +1,30 @@
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.exe
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.deps.json
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.runtimeconfig.json
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.dll
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.pdb
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.csproj.AssemblyReference.cache
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.AssemblyInfoInputs.cache
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.AssemblyInfo.cs
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.csproj.CoreCompileInputs.cache
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.dll
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\refint\JeuDeCarte-C.dll
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.pdb
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.genruntimeconfig.cache
+C:\Users\cedri\OneDrive\Bureau\Document\UQTR\GIT\jeu-de-carte-2\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\ref\JeuDeCarte-C.dll
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.exe
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.deps.json
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.runtimeconfig.json
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.dll
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\bin\Debug\net7.0\JeuDeCarte-C.pdb
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.csproj.AssemblyReference.cache
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.AssemblyInfoInputs.cache
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.AssemblyInfo.cs
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.csproj.CoreCompileInputs.cache
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.dll
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\refint\JeuDeCarte-C.dll
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.pdb
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\JeuDeCarte-C.genruntimeconfig.cache
+C:\Users\ftherrien\OneDrive - Noovelia\Documents\UQTR-3\TP1\jeu-de-carte-5\JeuDeCarte-C\JeuDeCarte-C\obj\Debug\net7.0\ref\JeuDeCarte-C.dll

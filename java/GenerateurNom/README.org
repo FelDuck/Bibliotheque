@@ -1,0 +1,4 @@
+* Travail en Java realiser dans le cadre du cour d'algorythme I
+permet de generer des noms a partirs d'une liste de nom textuelle ma partie du travail fait presque
+tous en fait la seul partie que je n'est pas fait est la partie qui permet de actuellement generer
+les noms a partirs de la tables de frequences d'une lettre a l'autre

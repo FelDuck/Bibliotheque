@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDeCarte-C", "JeuDeCarte-C\JeuDeCarte-C.csproj", "{4F5A691D-1EFF-4324-99D1-4479E170813B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5A691D-1EFF-4324-99D1-4479E170813B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5A691D-1EFF-4324-99D1-4479E170813B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5A691D-1EFF-4324-99D1-4479E170813B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5A691D-1EFF-4324-99D1-4479E170813B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
